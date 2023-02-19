@@ -1,5 +1,9 @@
-# Welcome to GitHub Desktop!
+# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+![Shoppy](https://i.ibb.co/W6g39w3/image.png)
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## Introduction
+This is a code repository for the corresponding video tutorial.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+If you want to get a finished, highly customizable Material UI version of a similar dashboard, check out [Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+
+## Launch your development career with project-based coaching - https://www.jsmastery.pro
